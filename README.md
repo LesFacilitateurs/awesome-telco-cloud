@@ -14,8 +14,20 @@ A curated list of TelcoCloud ecosystem projects.
   - [Awesome PaaS](https://github.com/debarshibasak/awesome-paas): A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs
   - [Awesome IoT](https://github.com/phodal/awesome-iot): A collaborative list of great resources about IoT Framework, Library, OS, Platform
 
-# VNF/CNF Development
+# Resources
 
-# VNF/CNF Orchestration 
+## Books
 
-# Automation & SRE
+## Courses
+
+## Papers
+
+## Research Project Reports
+
+## Blogs & Websites
+
+# VNF/CNF Development Projects
+
+# VNF/CNF Orchestration Projects
+
+# Automation & SRE Projects
