@@ -26,8 +26,28 @@ A curated list of TelcoCloud ecosystem projects.
 
 ## Blogs & Websites
 
-# VNF/CNF Development Projects
+# CNF/VNF Development Projects
 
-# VNF/CNF Orchestration Projects
+# CNF/VNF Orchestration & Automation Projects
 
-# Automation & SRE Projects
+## Cloud Native Computing Foundation (CNCF) projects
+
+## Open Infrastructure Foundation (OIF) projects
+
+  - [StarlingX](https://www.starlingx.io/): cloud infrastructure software stack for the edge used for industrial IOT, telecom, video delivery and other ultra-low latency use cases
+  - [OpenStack Tacker](https://opendev.org/openstack/tacker/): ETSI MANO NFV Orchestrator / VNF Manager
+  - [Kata Containers](https://katacontainers.io/): CRI compatible implementation of lightweight virtual machines
+  - [Airship](https://www.airshipit.org/): a collection of loosely coupled but interoperable open source tools that declaratively automate cloud provisioning
+
+## Linux Foundation Networking (LFN) projects
+
+  - [Anuket](https://wiki.anuket.io/): Standardized reference infrastructure specifications and CNF compliance
+  - [EMCO](https://project-emco.io/): Kubernetes-based end-to-end inter-application communication at the Edge
+  - [ONAP](https://www.onap.org/): orchestration, management, and automation of network and edge computing services
+  - [XGVela](https://xgvela.org/): reference design of telco-PaaS to accelerate cloud native transformation for telcos
+  - [L3AF](https://l3af.io/): a control plane and a marketplace for eBPF programs
+  
+## Misc.
+
+  - [Open Source MANO](https://osm.etsi.org/): an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
+  - [Firecracker](https://github.com/firecracker-microvm/firecracker): microVMs for serverless computing from AWS
