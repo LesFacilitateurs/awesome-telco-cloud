@@ -5,7 +5,7 @@ A curated list of TelcoCloud ecosystem projects.
 # Awesome Squared
 
   - [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization): Collection of resources about Virtualization
-  - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
+  - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin): A curated list open source sysadmin resources
   - [Awesome 5G](https://github.com/calee0219/awesome-5g): Awesome lists about 5G projects
   - [Awesome Telco](https://github.com/ravens/awesome-telco): A curated list of telco resources and projects
   - [Awesome SDN](https://github.com/sdnds-tw/awesome-sdn): A awesome list about Software Defined Network (SDN)
