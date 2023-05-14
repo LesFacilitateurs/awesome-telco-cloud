@@ -5,6 +5,7 @@ A curated list of TelcoCloud ecosystem projects.
 # Awesome Squared
 
   - [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization): Collection of resources about Virtualization
+  - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin)
   - [Awesome 5G](https://github.com/calee0219/awesome-5g): Awesome lists about 5G projects
   - [Awesome Telco](https://github.com/ravens/awesome-telco): A curated list of telco resources and projects
   - [Awesome SDN](https://github.com/sdnds-tw/awesome-sdn): A awesome list about Software Defined Network (SDN)
@@ -18,6 +19,13 @@ A curated list of TelcoCloud ecosystem projects.
 
 ## Books
 
+  - [Software Networks: Virtualization, SDN, 5G, and Security](https://ieeexplore.ieee.org/book/9116614)
+  - [Cloud Native Patterns](https://www.oreilly.com/library/view/cloud-native-patterns/9781617294297/)
+  - [Network Functions Virtualization (NFV) with a Touch of SDN](https://www.amazon.com/Network-Functions-Virtualization-NFV-Touch/dp/0134463056)
+  - [Multi-access Edge Computing: Software Development at the Network Edge](https://link.springer.com/book/10.1007/978-3-030-79618-1)
+  - [5G System Design: Architectural and Functional Considerations and Long Term Research](https://www.wiley.com/en-us/5G+System+Design%3A+Architectural+and+Functional+Considerations+and+Long+Term+Research-p-9781119425120)
+  - [Telco Cloud For Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf)
+
 ## Courses
 
 ## Papers
@@ -27,6 +35,7 @@ A curated list of TelcoCloud ecosystem projects.
 ## Blogs & Websites
 
 # CNF/VNF Development Projects
+  - [Ligato](https://ligato.io/): a Go Framework for Building Applications to Control and Manage Cloud Native Network Functions (CNF)
 
 # CNF/VNF Orchestration & Automation Projects
 
