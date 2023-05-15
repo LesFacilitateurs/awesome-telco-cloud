@@ -28,6 +28,15 @@ A curated list of TelcoCloud ecosystem projects.
 
 ## Courses
 
+  - [Network Transformation](https://www.coursera.org/learn/network-transformation-101)
+  - [Intel Telco Cloud Technologies](https://www.coursera.org/learn/intel-telco-cloud-technologies)
+  - [Introduction to Magma: Cloud Native Wireless Networking](https://training.linuxfoundation.org/training/introduction-to-magma-cloud-native-wireless-networking-lfs166x/)
+  - [OpenStack and NFV (TelcoCloud)](https://www.udemy.com/course/openstack-telcocloud-asad/)
+  - [Kubernetes in NFV (TelcoCloud)](https://www.udemy.com/course/kubernetes-in-nfv-telcocloud/)
+  - [Beginners Guide: Software Defined Network, Telco Cloud & NFV](https://www.udemy.com/course/beginners-guide-software-defined-network-telco-cloud-nfv/)
+  - [Open RAN (ORAN) architecture, evolution & deployment - 5G](https://www.udemy.com/course/open-ran-oran-architecture-evolution-deployment-5g/)
+  - [Telco Cloud Technologies](https://www.lablabee.com/catalog)
+
 ## Papers
 
 ## Research Project Reports
