@@ -5,7 +5,7 @@ A curated list of TelcoCloud ecosystem projects.
 # Awesome Squared
 
   - [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization): Collection of resources about Virtualization
-  - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin): A curated list open source sysadmin resources
+  - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin): A curated list of open source sysadmin resources
   - [Awesome 5G](https://github.com/calee0219/awesome-5g): Awesome lists about 5G projects
   - [Awesome Telco](https://github.com/ravens/awesome-telco): A curated list of telco resources and projects
   - [Awesome SDN](https://github.com/sdnds-tw/awesome-sdn): A awesome list about Software Defined Network (SDN)
@@ -36,6 +36,7 @@ A curated list of TelcoCloud ecosystem projects.
   - [Beginners Guide: Software Defined Network, Telco Cloud & NFV](https://www.udemy.com/course/beginners-guide-software-defined-network-telco-cloud-nfv/)
   - [Open RAN (ORAN) architecture, evolution & deployment - 5G](https://www.udemy.com/course/open-ran-oran-architecture-evolution-deployment-5g/)
   - [Telco Cloud Technologies](https://www.lablabee.com/catalog)
+  - [Private 5G Networks / 5G Non-Public Networks (NPNs)](https://www.udemy.com/course/private-5g-networks-5g-non-public-networks-npns-5g-tsn-industry-4/)
 
 ## Papers
 
