@@ -54,6 +54,9 @@ A curated list of TelcoCloud ecosystem projects.
   - [CNCF CNF Test Suite](https://github.com/cncf/cnf-testsuite) - check K8s + cloud native best practices in networking applications and platforms
   - [TRex](https://github.com/cisco-system-traffic-generator/trex-core) - Realistic Traffic Generator
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - microVMs for serverless computing from AWS
+  - [OpenShift CNF Features Deploy](https://github.com/openshift-kni/cnf-features-deploy) - Kustomize configs for installing CNF features and e2e functional tests for verifying feature deployment/integration
+  - [CNCF CNF Certification](https://github.com/cncf/cnf-certification) - Beta release for Cloud native Network Function Certification program
+  - [cnfuzz](https://github.com/suecodelabs/cnfuzz) - Breaking Cloud Native Web APIs in their natural habitat
 
 # CNF/VNF Orchestration & Automation Projects
 
@@ -76,8 +79,17 @@ A curated list of TelcoCloud ecosystem projects.
   - [ONAP](https://www.onap.org/) - orchestration, management, and automation of network and edge computing services
   - [XGVela](https://xgvela.org/) - reference design of telco-PaaS to accelerate cloud native transformation for telcos
   - [L3AF](https://l3af.io/) - a control plane and a marketplace for eBPF programs
-  
-## Misc.
+
+## Open Networking Foundation (ONF) projects
+
+  - [Aether](https://opennetworking.org/aether/) - open source 5G Connected Edge platform
+  - [OMEC](https://github.com/omec-project) - 3GPP Release 13 compatible stand-alone EPC
+  - [CORD](https://github.com/opencord) - leverages SDN, NFV to build agile datacenters for the network edge
+  - [ODTN](https://wiki.onosproject.org/display/ODTN/ODTN) - an open source platform for running multi-vendor optical transport networks
+  - [XOS](https://github.com/opencord/xos) - a model-based platform for assembling, controlling, and composing services
+
+## European Telecommunications Standards Institute (ETSI) projects
+
   - [Open Source MANO](https://osm.etsi.org/) - an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
 
 # Private 3G/4G/5G Networks based on Open Source
