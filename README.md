@@ -61,6 +61,8 @@ A curated list of TelcoCloud ecosystem projects.
   - [CNCF CNF Certification](https://github.com/cncf/cnf-certification) - Beta release for Cloud native Network Function Certification program
   - [cnfuzz](https://github.com/suecodelabs/cnfuzz) - Breaking Cloud Native Web APIs in their natural habitat
   - [ETSI api-test](https://forge.etsi.org/rep/nfv/api-tests) - NFV API Conformance test specification
+  - [Cisco NSO developer](https://github.com/NSO-developer) - developer tools of the Cisco Network Services Orchestrator
+  - [5G APIs](https://forge.3gpp.org/rep/all/5G_APIs) - OpenAPI Specification Files for 3GPP 5G Core Network
 
 # CNF/VNF Orchestration & Automation Projects
 
@@ -95,6 +97,7 @@ A curated list of TelcoCloud ecosystem projects.
 ## European Telecommunications Standards Institute (ETSI) projects
 
   - [Open Source MANO](https://osm.etsi.org/) - an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
+  - [VIM emulator](https://osm.etsi.org/gitweb/?p=osm/vim-emu.git;a=tree) - a NFV multi-PoP emulation platform
 
 # Private 3G/4G/5G Networks based on Open Source
   
