@@ -35,10 +35,15 @@ A curated list of TelcoCloud ecosystem projects.
   - [Kubernetes in NFV (TelcoCloud)](https://www.udemy.com/course/kubernetes-in-nfv-telcocloud/)
   - [Beginners Guide: Software Defined Network, Telco Cloud & NFV](https://www.udemy.com/course/beginners-guide-software-defined-network-telco-cloud-nfv/)
   - [Open RAN (ORAN) architecture, evolution & deployment - 5G](https://www.udemy.com/course/open-ran-oran-architecture-evolution-deployment-5g/)
-  - [Telco Cloud Technologies](https://www.lablabee.com/catalog)
   - [Private 5G Networks / 5G Non-Public Networks (NPNs)](https://www.udemy.com/course/private-5g-networks-5g-non-public-networks-npns-5g-tsn-industry-4/)
 
+## Hands-on training
+  - [Telco Cloud Technologies](https://www.lablabee.com/catalog)
+
 ## Papers
+  - [R. Mijumbi, J. Serrat, J. -L. Gorricho, N. Bouten, F. De Turck and R. Boutaba, "Network Function Virtualization: State-of-the-Art and Research Challenges," in IEEE Communications Surveys & Tutorials, vol. 18, no. 1, pp. 236-262, Firstquarter 2016](https://ieeexplore.ieee.org/abstract/document/7243304)
+  - [Basilier, H., Darula, M., & Wilke, J. (2014). Virtualizing network services–the telecom cloud. Ericsson Review, 91, 1-9.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62c2e15ec9138f41af9029f5074f3b8b23767311)
+  - [P. Suthar and M. Stolic, "Carrier grade Telco-Cloud," 2015 IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob), Bandung, Indonesia, 2015, pp. 101-107](https://ieeexplore.ieee.org/abstract/document/7374941)
 
 ## Research Project Reports
 
@@ -61,13 +66,14 @@ A curated list of TelcoCloud ecosystem projects.
 ## Linux Foundation Networking (LFN) projects
 
   - [Anuket](https://wiki.anuket.io/): Standardized reference infrastructure specifications and CNF compliance
+    - [NFVBench](https://docs.anuket.io/projects/nfvbench/en/latest/testing/user/userguide/installation.html)
   - [EMCO](https://project-emco.io/): Kubernetes-based end-to-end inter-application communication at the Edge
   - [ONAP](https://www.onap.org/): orchestration, management, and automation of network and edge computing services
   - [XGVela](https://xgvela.org/): reference design of telco-PaaS to accelerate cloud native transformation for telcos
   - [L3AF](https://l3af.io/): a control plane and a marketplace for eBPF programs
   
 ## Misc.
-
+  - [TRex: Realistic Traffic Generator](https://github.com/cisco-system-traffic-generator/trex-core)
   - [Open Source MANO](https://osm.etsi.org/): an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
   - [Firecracker](https://github.com/firecracker-microvm/firecracker): microVMs for serverless computing from AWS
 
