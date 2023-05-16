@@ -51,6 +51,7 @@ A curated list of TelcoCloud ecosystem projects.
 
 # CNF/VNF Development Projects
   - [Ligato](https://ligato.io/) - a Go Framework for Building Applications to Control and Manage Cloud Native Network Functions (CNF)
+  - [CNCF CNF Test Suite](https://github.com/cncf/cnf-testsuite) - check K8s + cloud native best practices in networking applications and platforms
   - [TRex](https://github.com/cisco-system-traffic-generator/trex-core) - Realistic Traffic Generator
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - microVMs for serverless computing from AWS
 
