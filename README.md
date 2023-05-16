@@ -51,6 +51,8 @@ A curated list of TelcoCloud ecosystem projects.
 
 # CNF/VNF Development Projects
   - [Ligato](https://ligato.io/): a Go Framework for Building Applications to Control and Manage Cloud Native Network Functions (CNF)
+  - [TRex](https://github.com/cisco-system-traffic-generator/trex-core): Realistic Traffic Generator
+  - [Firecracker](https://github.com/firecracker-microvm/firecracker): microVMs for serverless computing from AWS
 
 # CNF/VNF Orchestration & Automation Projects
 
@@ -75,9 +77,7 @@ A curated list of TelcoCloud ecosystem projects.
   - [L3AF](https://l3af.io/): a control plane and a marketplace for eBPF programs
   
 ## Misc.
-  - [TRex](https://github.com/cisco-system-traffic-generator/trex-core): Realistic Traffic Generator
   - [Open Source MANO](https://osm.etsi.org/): an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
-  - [Firecracker](https://github.com/firecracker-microvm/firecracker): microVMs for serverless computing from AWS
 
 # Private 3G/4G/5G Networks based on Open Source
   
