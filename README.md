@@ -39,6 +39,7 @@ A curated list of Telco Cloud ecosystem projects.
 
 ## Hands-on training
   - [Lablabee](https://www.lablabee.com/catalog) - Telco cloud technologies with hands-on Labs
+  - [K8s 5G Lab](https://github.com/m4r1k/k8s_5g_lab) - 5G Telco Lab based on OpenShift
 
 ## Papers
   - [Network Function Virtualization: State-of-the-Art and Research Challenges](https://ieeexplore.ieee.org/abstract/document/7243304)
