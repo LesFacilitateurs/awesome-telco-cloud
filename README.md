@@ -38,12 +38,12 @@ A curated list of TelcoCloud ecosystem projects.
   - [Private 5G Networks / 5G Non-Public Networks (NPNs)](https://www.udemy.com/course/private-5g-networks-5g-non-public-networks-npns-5g-tsn-industry-4/)
 
 ## Hands-on training
-  - [Telco Cloud Technologies](https://www.lablabee.com/catalog)
+  - [Lablabee](https://www.lablabee.com/catalog): Telco cloud technologies with hands-on Labs
 
 ## Papers
-  - [R. Mijumbi, J. Serrat, J. -L. Gorricho, N. Bouten, F. De Turck and R. Boutaba, "Network Function Virtualization: State-of-the-Art and Research Challenges," in IEEE Communications Surveys & Tutorials, vol. 18, no. 1, pp. 236-262, Firstquarter 2016](https://ieeexplore.ieee.org/abstract/document/7243304)
-  - [Basilier, H., Darula, M., & Wilke, J. (2014). Virtualizing network services–the telecom cloud. Ericsson Review, 91, 1-9.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62c2e15ec9138f41af9029f5074f3b8b23767311)
-  - [P. Suthar and M. Stolic, "Carrier grade Telco-Cloud," 2015 IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob), Bandung, Indonesia, 2015, pp. 101-107](https://ieeexplore.ieee.org/abstract/document/7374941)
+  - [Network Function Virtualization: State-of-the-Art and Research Challenges](https://ieeexplore.ieee.org/abstract/document/7243304)
+  - [Virtualizing network services–the telecom cloud](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62c2e15ec9138f41af9029f5074f3b8b23767311)
+  - [Carrier grade Telco-Cloud](https://ieeexplore.ieee.org/abstract/document/7374941)
 
 ## Research Project Reports
 
@@ -55,6 +55,8 @@ A curated list of TelcoCloud ecosystem projects.
 # CNF/VNF Orchestration & Automation Projects
 
 ## Cloud Native Computing Foundation (CNCF) projects
+  - Cloud-native Network Function (CNF) Testbed [project](https://github.com/cncf/cnf-testbed)
+  - CNCF Telecom User Group [page](https://github.com/cncf/telecom-user-group)
 
 ## Open Infrastructure Foundation (OIF) projects
 
@@ -66,14 +68,14 @@ A curated list of TelcoCloud ecosystem projects.
 ## Linux Foundation Networking (LFN) projects
 
   - [Anuket](https://wiki.anuket.io/): Standardized reference infrastructure specifications and CNF compliance
-    - [NFVBench](https://docs.anuket.io/projects/nfvbench/en/latest/testing/user/userguide/installation.html)
+    - [NFVBench](https://docs.anuket.io/projects/nfvbench/en/latest/testing/user/userguide/installation.html): Configuration, orchestration, and traffic generation
   - [EMCO](https://project-emco.io/): Kubernetes-based end-to-end inter-application communication at the Edge
   - [ONAP](https://www.onap.org/): orchestration, management, and automation of network and edge computing services
   - [XGVela](https://xgvela.org/): reference design of telco-PaaS to accelerate cloud native transformation for telcos
   - [L3AF](https://l3af.io/): a control plane and a marketplace for eBPF programs
   
 ## Misc.
-  - [TRex: Realistic Traffic Generator](https://github.com/cisco-system-traffic-generator/trex-core)
+  - [TRex](https://github.com/cisco-system-traffic-generator/trex-core): Realistic Traffic Generator
   - [Open Source MANO](https://osm.etsi.org/): an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
   - [Firecracker](https://github.com/firecracker-microvm/firecracker): microVMs for serverless computing from AWS
 
