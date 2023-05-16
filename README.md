@@ -45,7 +45,10 @@ A curated list of TelcoCloud ecosystem projects.
   - [Virtualizing network services–the telecom cloud](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62c2e15ec9138f41af9029f5074f3b8b23767311)
   - [Carrier grade Telco-Cloud](https://ieeexplore.ieee.org/abstract/document/7374941)
 
-## Research Project Reports
+## Research Project
+
+  - [5GPPP 5G EVE](https://github.com/5GEVE) - the European 5G validation platform for extensive trials
+  - [5GPPP 5Genesis](https://github.com/5genesis) - 5G KPIs validation infrastructure
 
 ## Blogs & Websites
 
@@ -57,6 +60,7 @@ A curated list of TelcoCloud ecosystem projects.
   - [OpenShift CNF Features Deploy](https://github.com/openshift-kni/cnf-features-deploy) - Kustomize configs for installing CNF features and e2e functional tests for verifying feature deployment/integration
   - [CNCF CNF Certification](https://github.com/cncf/cnf-certification) - Beta release for Cloud native Network Function Certification program
   - [cnfuzz](https://github.com/suecodelabs/cnfuzz) - Breaking Cloud Native Web APIs in their natural habitat
+  - [ETSI api-test](https://forge.etsi.org/rep/nfv/api-tests) - NFV API Conformance test specification
 
 # CNF/VNF Orchestration & Automation Projects
 
