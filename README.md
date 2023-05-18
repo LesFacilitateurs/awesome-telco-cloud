@@ -100,6 +100,9 @@ A curated list of Telco Cloud ecosystem projects.
   - [Open Source MANO](https://osm.etsi.org/) - an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV
   - [VIM emulator](https://osm.etsi.org/gitweb/?p=osm/vim-emu.git;a=tree) - a NFV multi-PoP emulation platform
 
+## Telecom Infra Project (TIP) projects
+
+
 # Private 3G/4G/5G Networks based on Open Source
   
   - [BubbleRAN](https://bubbleran.com) - private 4G/5G network based on OpenAirInterface
