@@ -103,6 +103,8 @@ A curated list of Telco Cloud ecosystem projects.
 
 ## Telecom Infra Project (TIP) projects
 
+  - [OpenCellular](https://github.com/Telecominfraproject/OpenCellular) - an open source platform with a focus on enabling rural connectivity
+  - [wlan-ap](https://github.com/Telecominfraproject/wlan-ap) - an OpenWrt-based access point network operating system (AP NOS) for TIP OpenWiFi
 
 # Private 3G/4G/5G Networks based on Open Source
   
