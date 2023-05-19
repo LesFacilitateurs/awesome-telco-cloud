@@ -106,6 +106,13 @@ A curated list of Telco Cloud ecosystem projects.
   - [OpenCellular](https://github.com/Telecominfraproject/OpenCellular) - an open source platform with a focus on enabling rural connectivity
   - [wlan-ap](https://github.com/Telecominfraproject/wlan-ap) - an OpenWrt-based access point network operating system (AP NOS) for TIP OpenWiFi
 
+## Open Radio Access Network (O-RAN) projects 
+
+  - [it/test](https://gerrit.o-ran-sc.org/r/gitweb?p=it%2Ftest.git;a=summary) - end-to-end testing and validation for the oran ric project
+  - [it/rtp](https://gerrit.o-ran-sc.org/r/gitweb?p=pti%2Frtp.git;a=summary) - Performance Tuned Infrastructure
+  - [ric-plt/appmgr](https://gerrit.o-ran-sc.org/r/gitweb?p=ric-plt%2Fappmgr.git;a=summary) - deployment and management of various RIC xApp applications in Kubernates environment
+  - [ric-plt/jaegeradapter](https://gerrit.o-ran-sc.org/r/gitweb?p=ric-plt%2Fjaegeradapter.git;a=summary) - bootstrap project for Jaeger Agent as a side-car container
+
 # Private 3G/4G/5G Networks based on Open Source
   
   - [BubbleRAN](https://bubbleran.com) - private 4G/5G network based on OpenAirInterface
