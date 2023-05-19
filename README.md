@@ -25,6 +25,7 @@ A curated list of Telco Cloud ecosystem projects.
   - [Multi-access Edge Computing: Software Development at the Network Edge](https://link.springer.com/book/10.1007/978-3-030-79618-1)
   - [5G System Design: Architectural and Functional Considerations and Long Term Research](https://www.wiley.com/en-us/5G+System+Design%3A+Architectural+and+Functional+Considerations+and+Long+Term+Research-p-9781119425120)
   - [Telco Cloud For Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf)
+  - [Private 5G: A Systems Approach](https://github.com/SystemsApproach/private5g)
 
 ## Courses
 
