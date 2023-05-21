@@ -117,7 +117,7 @@ A curated list of Telco Cloud ecosystem projects.
   
   - [BubbleRAN](https://bubbleran.com) - private 4G/5G network based on OpenAirInterface
   - [OAIBOX](https://oaibox.com/) - private 5G network based on OpenAirInterface
-  - [Saviah](https://www.saviah.com/en) - provate 5G network based on Free5GC
+  - [Saviah](https://www.saviah.com/en) - private 5G network based on Free5GC
   - [firecell](https://firecell.io/) - private 4G & 5G networks based on OpenAirInterface
   - [5-fi](https://5-fi.net/) - 5G private network based on OpenAirInterface
   - [sysmocom](https://sysmocom.de/products/cni/) - 3G & 4G private networks based on Osmocom
