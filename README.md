@@ -46,6 +46,7 @@ A curated list of Telco Cloud ecosystem projects.
   - [Network Function Virtualization: State-of-the-Art and Research Challenges](https://ieeexplore.ieee.org/abstract/document/7243304)
   - [Virtualizing network services–the telecom cloud](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62c2e15ec9138f41af9029f5074f3b8b23767311)
   - [Carrier grade Telco-Cloud](https://ieeexplore.ieee.org/abstract/document/7374941)
+  - [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 
 ## Research Project
 
