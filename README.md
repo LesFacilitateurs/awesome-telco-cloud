@@ -66,6 +66,7 @@ A curated list of Telco Cloud ecosystem projects.
   - [ETSI api-test](https://forge.etsi.org/rep/nfv/api-tests) - NFV API Conformance test specification
   - [Cisco NSO developer](https://github.com/NSO-developer) - developer tools of the Cisco Network Services Orchestrator
   - [5G APIs](https://forge.3gpp.org/rep/all/5G_APIs) - OpenAPI Specification Files for 3GPP 5G Core Network
+  - [Kata Containers](https://katacontainers.io/) - CRI compatible implementation of lightweight virtual machines
 
 # CNF/VNF Orchestration & Automation Projects
 
