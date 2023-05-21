@@ -51,6 +51,7 @@ A curated list of Telco Cloud ecosystem projects.
 
   - [5GPPP 5G EVE](https://github.com/5GEVE) - the European 5G validation platform for extensive trials
   - [5GPPP 5Genesis](https://github.com/5genesis) - 5G KPIs validation infrastructure
+  - [SoftFIRE](https://github.com/softfire-eu) - federated NFV/SDN testbed infrastructure
 
 ## Blogs & Websites
 
