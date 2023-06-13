@@ -56,6 +56,8 @@ A curated list of Telco Cloud ecosystem projects.
 
 ## Blogs & Websites
 
+  - [K8s introducing SCTP multihoming functionality with LoxiLB](https://www.loxilb.io/post/k8s-introducing-sctp-multihoming-functionality-with-loxilb)
+
 # CNF/VNF Development Projects
   - [Ligato](https://ligato.io/) - a Go Framework for Building Applications to Control and Manage Cloud Native Network Functions (CNF)
   - [CNCF CNF Test Suite](https://github.com/cncf/cnf-testsuite) - check K8s + cloud native best practices in networking applications and platforms
