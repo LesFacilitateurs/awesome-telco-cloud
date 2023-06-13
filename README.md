@@ -1,6 +1,6 @@
 # Awesome Telco Cloud
 
-A curated list of Telco Cloud ecosystem projects.
+A curated list of Telco Cloud ecosystem projects and resources.
 
 # Awesome Squared
 
