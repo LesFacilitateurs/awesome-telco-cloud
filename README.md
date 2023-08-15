@@ -70,7 +70,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [Carrier grade Telco-Cloud](https://ieeexplore.ieee.org/abstract/document/7374941)
   - [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
 
-### Research Project
+### Research Projects
 
   - [5GPPP 5G EVE](https://github.com/5GEVE) - the European 5G validation platform for extensive trials
   - [5GPPP 5Genesis](https://github.com/5genesis) - 5G KPIs validation infrastructure
