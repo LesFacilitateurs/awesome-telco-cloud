@@ -29,7 +29,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
   - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) - A curated list of open source sysadmin resources
   - [Awesome 5G](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects
-  - [Awesome Telco](https://github.com/ravens/awesome-telco): - A curated list of telco resources and projects
+  - [Awesome Telco](https://github.com/ravens/awesome-telco) - A curated list of telco resources and projects
   - [Awesome SDN](https://github.com/sdnds-tw/awesome-sdn) - A awesome list about Software Defined Network (SDN)
   - [Awesome SDR](https://github.com/mendel5/sdr) - Overview of use cases and applications for software defined radios (SDR)
   - [Awesome Telco Security](https://github.com/Lofmir/awesome-telco-security) - A list of telco security resources and projects
