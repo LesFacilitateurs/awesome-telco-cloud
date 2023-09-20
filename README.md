@@ -19,7 +19,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   * [European Telecommunications Standards Institute - ETSI projects](#european-telecommunications-standards-institute---etsi-projects)
   * [Telecom Infra Project - TIP projects](#telecom-infra-project---tip-projects)
   * [Open Radio Access Network - O-RAN projects](#open-radio-access-network---o-ran-projects)
-- [Private 3G-4G-5G Networks based on Open Source](#private-3g-4g-5g-networks-based-on-open-source)
+- [Private 3G-4G-5G Networks based on Open Source](#private-3g-4g-5g-core-networks-based-on-open-source)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -140,11 +140,12 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [ric-plt/appmgr](https://gerrit.o-ran-sc.org/r/gitweb?p=ric-plt%2Fappmgr.git;a=summary) - deployment and management of various RIC xApp applications in Kubernates environment
   - [ric-plt/jaegeradapter](https://gerrit.o-ran-sc.org/r/gitweb?p=ric-plt%2Fjaegeradapter.git;a=summary) - bootstrap project for Jaeger Agent as a side-car container
 
-## Private 3G-4G-5G Networks based on Open Source
+## Private 3G-4G-5G Core Networks based on Open Source
   
-  - [BubbleRAN](https://bubbleran.com) - private 4G/5G network based on OpenAirInterface
-  - [OAIBOX](https://oaibox.com/) - private 5G network based on OpenAirInterface
-  - [Saviah](https://www.saviah.com/en) - private 5G network based on Free5GC
-  - [firecell](https://firecell.io/) - private 4G & 5G networks based on OpenAirInterface
-  - [5-fi](https://5-fi.net/) - 5G private network based on OpenAirInterface
-  - [sysmocom](https://sysmocom.de/products/cni/) - 3G & 4G private networks based on Osmocom
+  - [BubbleRAN](https://bubbleran.com) - private 4G/5G core network based on OpenAirInterface
+  - [OAIBOX](https://oaibox.com/) - private 5G core network based on OpenAirInterface
+  - [Saviah](https://www.saviah.com/en) - private 5G core network based on Free5GC
+  - [firecell](https://firecell.io/) - private 4G & 5G core networks based on OpenAirInterface
+  - [5-fi](https://5-fi.net/) - 5G private core network based on OpenAirInterface
+  - [sysmocom](https://sysmocom.de/products/cni/) - 3G & 4G private core networks based on Osmocom
+  - [NeoPlane](https://neoplane.io/) - private 4G & 5G core networks based on Open5GS
