@@ -132,6 +132,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
 
   - [OpenCellular](https://github.com/Telecominfraproject/OpenCellular) - an open source platform with a focus on enabling rural connectivity
   - [wlan-ap](https://github.com/Telecominfraproject/wlan-ap) - an OpenWrt-based access point network operating system (AP NOS) for TIP OpenWiFi
+  - [GNPy](https://github.com/Telecominfraproject/oopt-gnpy) - an open source simulator for Fiber networks with Route Planning, Based on a Gaussian Noise Model 
 
 ### Open Radio Access Network - O-RAN projects 
 
