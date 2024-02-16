@@ -6,7 +6,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
 - [Resources](#resources)
   * [Books](#books)
   * [Courses](#courses)
-  * [Hands-on training](#hands-on-training)
+  * [Hands-on trainings](#hands-on-trainings)
   * [Papers](#papers)
   * [Research Project](#research-project)
   * [Blogs and Websites](#blogs-and-websites)
@@ -60,7 +60,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [Open RAN (ORAN) architecture, evolution & deployment - 5G](https://www.udemy.com/course/open-ran-oran-architecture-evolution-deployment-5g/)
   - [Private 5G Networks / 5G Non-Public Networks (NPNs)](https://www.udemy.com/course/private-5g-networks-5g-non-public-networks-npns-5g-tsn-industry-4/)
 
-### Hands-on training
+### Hands-on trainings
   - [Lablabee](https://www.lablabee.com/catalog) - Telco cloud technologies with hands-on Labs
   - [K8s 5G Lab](https://github.com/m4r1k/k8s_5g_lab) - 5G Telco Lab based on OpenShift
 
