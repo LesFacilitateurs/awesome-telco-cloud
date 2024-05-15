@@ -8,18 +8,23 @@ A curated list of Telco Cloud ecosystem projects and resources.
   * [Courses](#courses)
   * [Hands-on trainings](#hands-on-trainings)
   * [Papers](#papers)
-  * [Research Project](#research-project)
+  * [Research Projects](#research-projects)
   * [Blogs and Websites](#blogs-and-websites)
-- [CNF Development Projects](#cnf-development-projects)
-- [CNF Orchestration and Automation Projects](#cnf-orchestration-and-automation-projects)
-  * [Cloud Native Computing Foundation - CNCF projects](#cloud-native-computing-foundation---cncf-projects)
-  * [Open Infrastructure Foundation - OIF projects](#open-infrastructure-foundation---oif-projects)
+- [NF Development Projects](#nf-development-projects)
+- [NF Orchestration and Automation Projects](#nf-orchestration-and-automation-projects)
   * [Linux Foundation Networking - LFN projects](#linux-foundation-networking---lfn-projects)
   * [Open Networking Foundation - ONF projects](#open-networking-foundation---onf-projects)
+  * [Open Infrastructure Foundation - OIF projects](#open-infrastructure-foundation---oif-projects)
+  * [Cloud Native Computing Foundation - CNCF projects](#cloud-native-computing-foundation---cncf-projects)
   * [European Telecommunications Standards Institute - ETSI projects](#european-telecommunications-standards-institute---etsi-projects)
   * [Telecom Infra Project - TIP projects](#telecom-infra-project---tip-projects)
   * [Open Radio Access Network - O-RAN projects](#open-radio-access-network---o-ran-projects)
-- [Private 3G-4G-5G Networks based on Open Source](#private-3g-4g-5g-core-networks-based-on-open-source)
+- [Open Source Cellular Network NFs](#open-source-cellular-network-nfs)
+  * [5G](#5g)
+  * [4G](#4g)
+  * [3G](#3g)
+  * [2G](#2g)
+- [Private 3G-4G-5G Core Networks based on Open Source](#private-3g-4g-5g-core-networks-based-on-open-source)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -80,7 +85,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
 
   - [K8s introducing SCTP multihoming functionality with LoxiLB](https://www.loxilb.io/post/k8s-introducing-sctp-multihoming-functionality-with-loxilb)
 
-## CNF Development Projects
+## NF Development Projects
   - [Ligato](https://ligato.io/) - a Go Framework for Building Applications to Control and Manage Cloud Native Network Functions (CNF)
   - [CNCF CNF Test Suite](https://github.com/cncf/cnf-testsuite) - check K8s + cloud native best practices in networking applications and platforms
   - [TRex](https://github.com/cisco-system-traffic-generator/trex-core) - Realistic Traffic Generator
@@ -93,27 +98,18 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [5G APIs](https://forge.3gpp.org/rep/all/5G_APIs) - OpenAPI Specification Files for 3GPP 5G Core Network
   - [Kata Containers](https://katacontainers.io/) - CRI compatible implementation of lightweight virtual machines
 
-## CNF Orchestration and Automation Projects
-
-### Cloud Native Computing Foundation - CNCF projects
-  - Cloud-native Network Function (CNF) Testbed [project](https://github.com/cncf/cnf-testbed)
-  - CNCF Telecom User Group [page](https://github.com/cncf/telecom-user-group)
-
-### Open Infrastructure Foundation - OIF projects
-
-  - [StarlingX](https://www.starlingx.io/) - cloud infrastructure software stack for the edge used for industrial IOT, telecom, video delivery and other ultra-low latency use cases
-  - [OpenStack Tacker](https://opendev.org/openstack/tacker/) - ETSI MANO NFV Orchestrator / VNF Manager
-  - [Kata Containers](https://katacontainers.io/) - CRI compatible implementation of lightweight virtual machines
-  - [Airship](https://www.airshipit.org/) - a collection of loosely coupled but interoperable open source tools that declaratively automate cloud provisioning
+## NF Orchestration and Automation Projects
 
 ### Linux Foundation Networking - LFN projects
 
+  - [Camara](https://camaraproject.org/) - 4G/5G network capabilities exposed through APIs
+  - [Magma](https://github.com/magma/magma) - an open source platform for building access networks and modular network services 
   - [Anuket](https://wiki.anuket.io/) - Standardized reference infrastructure specifications and CNF compliance
     - [NFVBench](https://docs.anuket.io/projects/nfvbench/en/latest/testing/user/userguide/installation.html) - Configuration, orchestration, and traffic generation
   - [EMCO](https://project-emco.io/) - Kubernetes-based end-to-end inter-application communication at the Edge
+  - [L3AF](https://l3af.io/) - a control plane and a marketplace for eBPF programs
   - [ONAP](https://www.onap.org/) - orchestration, management, and automation of network and edge computing services
   - [XGVela](https://xgvela.org/) - reference design of telco-PaaS to accelerate cloud native transformation for telcos
-  - [L3AF](https://l3af.io/) - a control plane and a marketplace for eBPF programs
 
 ### Open Networking Foundation - ONF projects
 
@@ -122,6 +118,18 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [CORD](https://github.com/opencord) - leverages SDN, NFV to build agile datacenters for the network edge
   - [ODTN](https://wiki.onosproject.org/display/ODTN/ODTN) - an open source platform for running multi-vendor optical transport networks
   - [XOS](https://github.com/opencord/xos) - a model-based platform for assembling, controlling, and composing services
+
+### Open Infrastructure Foundation - OIF projects
+
+  - [StarlingX](https://www.starlingx.io/) - cloud infrastructure software stack for the edge used for industrial IOT, telecom, video delivery and other ultra-low latency use cases
+  - [OpenStack Tacker](https://opendev.org/openstack/tacker/) - ETSI MANO NFV Orchestrator / VNF Manager
+  - [Kata Containers](https://katacontainers.io/) - CRI compatible implementation of lightweight virtual machines
+  - [Airship](https://www.airshipit.org/) - a collection of loosely coupled but interoperable open source tools that declaratively automate cloud provisioning
+
+
+### Cloud Native Computing Foundation - CNCF projects
+  - Cloud-native Network Function (CNF) Testbed [project](https://github.com/cncf/cnf-testbed)
+  - CNCF Telecom User Group [page](https://github.com/cncf/telecom-user-group)
 
 ### European Telecommunications Standards Institute - ETSI projects
 
@@ -140,6 +148,38 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [it/rtp](https://gerrit.o-ran-sc.org/r/gitweb?p=pti%2Frtp.git;a=summary) - Performance Tuned Infrastructure
   - [ric-plt/appmgr](https://gerrit.o-ran-sc.org/r/gitweb?p=ric-plt%2Fappmgr.git;a=summary) - deployment and management of various RIC xApp applications in Kubernates environment
   - [ric-plt/jaegeradapter](https://gerrit.o-ran-sc.org/r/gitweb?p=ric-plt%2Fjaegeradapter.git;a=summary) - bootstrap project for Jaeger Agent as a side-car container
+
+## Open Source Cellular Network NFs
+
+### 5G
+
+  - [OpenAirInterface 5G RAN](https://openairinterface.org/oai-5g-ran-project/) - an open source 5G Radio Access Network supporting 5G SA & NSA
+  - [srsRAN](https://github.com/srsran/srsran_project) - a complete 5G RAN solution, featuring an ORAN-native CU/DU
+  - [Free5GC](https://free5gc.org/) - an open-source project for 5th generation (5G) mobile core networks (Release 15)
+  - [Open5GS](https://open5gs.org/) - a C-language Open Source implementation of 5G Core Network (Release-16)
+  - [OpenAirInterface 5GC](https://openairinterface.org/oai-5g-core-network-project/) - an open source 5G core network
+
+### 4G
+
+  - [srsENB](https://www.srslte.com/4g) - a full-stack SDR 4G eNodeB application
+  - [Open5GS](https://open5gs.org/) - a C-language Open Source implementation of 4G EPC
+  - [srsEPC](https://www.srslte.com/4g) - a light-weight 4G core network implementation with MME, HSS and S/P-GW
+  - [Corenet](https://github.com/mitshell/corenet) - Minimal 3G and LTE / EPC core network
+  - [OMEC](https://opennetworking.org/omec/) - an Open Source Virtualized Mobile Core Project from ONF
+
+### 3G
+
+  - [OpenBTS-UMTS ](https://github.com/RangeNetworks/OpenBTS-UMTS) - a 3G UMTS Data Radio Access Network Node
+  - [Corenet](https://github.com/mitshell/corenet) - Minimal 3G and LTE / EPC core network
+  - [OsmoSGSN](https://osmocom.org/projects/osmosgsn) - an Open Source implementation of a SGSN (Serving GPRS Support Node)
+  - [OsmoGGSN](https://osmocom.org/projects/openggsn) - an Open Source implementation of a GGSN (Gateway GPRS Support Node)
+
+### 2G
+
+  - [OsmocomBB](https://osmocom.org/projects/baseband/wiki) - an Open Source GSM Baseband software implementation
+  - [OpenBTS](https://github.com/RangeNetworks/openbts) - an open source GSM+GPRS Radio Access Network Node
+  - [OsmoTRX](https://osmocom.org/projects/osmotrx) - a GSM Radio Modem based on a fork of the OpenBTS Transceiver program
+  - [OsmoBTS](https://osmocom.org/projects/osmotrx/wiki/OsmoTRX) - a software implementation of a GSM BTS
 
 ## Private 3G-4G-5G Core Networks based on Open Source
   
