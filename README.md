@@ -25,6 +25,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   * [3G](#3g)
   * [2G](#2g)
 - [Private 3G-4G-5G Core Networks based on Open Source](#private-3g-4g-5g-core-networks-based-on-open-source)
+- [Artificial Intelligence for Telcos](#artificial-intelligence-for-telcos)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -190,3 +191,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [5-fi](https://5-fi.net/) - 5G private core network based on OpenAirInterface
   - [sysmocom](https://sysmocom.de/products/cni/) - 3G & 4G private core networks based on Osmocom
   - [NeoPlane](https://neoplane.io/) - private 4G & 5G core networks based on Open5GS
+
+## Artificial Intelligence for Telcos
+
+  - [Telco-RAG](https://github.com/netop-team/Telco-RAG) - a specialized Retrieval-Augmented Generation for 3GPP documents
