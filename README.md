@@ -20,10 +20,10 @@ A curated list of Telco Cloud ecosystem projects and resources.
   * [Telecom Infra Project - TIP projects](#telecom-infra-project---tip-projects)
   * [Open Radio Access Network - O-RAN projects](#open-radio-access-network---o-ran-projects)
 - [Open Source Cellular Network NFs](#open-source-cellular-network-nfs)
-  * [5G](#5g)
-  * [4G](#4g)
-  * [3G](#3g)
-  * [2G](#2g)
+  * [5G](#5g-network-nfs)
+  * [4G](#4g-network-nfs)
+  * [3G](#3g-network-nts)
+  * [2G](#2g-network-nfs)
 - [Private 3G-4G-5G Core Networks based on Open Source](#private-3g-4g-5g-core-networks-based-on-open-source)
 - [Artificial Intelligence for Telcos](#artificial-intelligence-for-telcos)
 
@@ -153,7 +153,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
 
 ## Open Source Cellular Network NFs
 
-### 5G
+### 5G Network NFs
 
   - [OpenAirInterface 5G RAN](https://openairinterface.org/oai-5g-ran-project/) - an open source 5G Radio Access Network supporting 5G SA & NSA
   - [srsRAN](https://github.com/srsran/srsran_project) - a complete 5G RAN solution, featuring an ORAN-native CU/DU
@@ -161,7 +161,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [Open5GS](https://open5gs.org/) - a C-language Open Source implementation of 5G Core Network (Release-16)
   - [OpenAirInterface 5GC](https://openairinterface.org/oai-5g-core-network-project/) - an open source 5G core network
 
-### 4G
+### 4G Network NFs
 
   - [srsENB](https://www.srslte.com/4g) - a full-stack SDR 4G eNodeB application
   - [Open5GS](https://open5gs.org/) - a C-language Open Source implementation of 4G EPC
@@ -169,14 +169,14 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [Corenet](https://github.com/mitshell/corenet) - Minimal 3G and LTE / EPC core network
   - [OMEC](https://opennetworking.org/omec/) - an Open Source Virtualized Mobile Core Project from ONF
 
-### 3G
+### 3G Network NFs
 
   - [OpenBTS-UMTS ](https://github.com/RangeNetworks/OpenBTS-UMTS) - a 3G UMTS Data Radio Access Network Node
   - [Corenet](https://github.com/mitshell/corenet) - Minimal 3G and LTE / EPC core network
   - [OsmoSGSN](https://osmocom.org/projects/osmosgsn) - an Open Source implementation of a SGSN (Serving GPRS Support Node)
   - [OsmoGGSN](https://osmocom.org/projects/openggsn) - an Open Source implementation of a GGSN (Gateway GPRS Support Node)
 
-### 2G
+### 2G Network NFs
 
   - [OsmocomBB](https://osmocom.org/projects/baseband/wiki) - an Open Source GSM Baseband software implementation
   - [OpenBTS](https://github.com/RangeNetworks/openbts) - an open source GSM+GPRS Radio Access Network Node
