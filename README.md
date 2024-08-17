@@ -67,6 +67,7 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [Private 5G Networks / 5G Non-Public Networks (NPNs)](https://www.udemy.com/course/private-5g-networks-5g-non-public-networks-npns-5g-tsn-industry-4/)
 
 ### Hands-on trainings
+  - [free5GLab](https://github.com/free5gc/free5GLab) - a series of hands-on labs to guide you to build the 5G networks
   - [Lablabee](https://www.lablabee.com/catalog) - Telco cloud technologies with hands-on Labs
   - [K8s 5G Lab](https://github.com/m4r1k/k8s_5g_lab) - 5G Telco Lab based on OpenShift
 
