@@ -159,15 +159,19 @@ A curated list of Telco Cloud ecosystem projects and resources.
   - [srsRAN](https://github.com/srsran/srsran_project) - a complete 5G RAN solution, featuring an ORAN-native CU/DU
   - [Free5GC](https://free5gc.org/) - an open-source project for 5th generation (5G) mobile core networks (Release 15)
   - [Open5GS](https://open5gs.org/) - a C-language Open Source implementation of 5G Core Network (Release-16)
-  - [OpenAirInterface 5GC](https://openairinterface.org/oai-5g-core-network-project/) - an open source 5G core network
+  - [OpenAirInterface 5GC](https://openairinterface.org/oai-code/) - open source 5G Core Network
+  - [SigScale CHF](https://github.com/sigscale/chf) - an open source 5G Charging Function NF
 
 ### 4G Network NFs
 
   - [srsENB](https://www.srslte.com/4g) - a full-stack SDR 4G eNodeB application
+  - [OpenAirInterface 4G RAN](https://openairinterface.org/oai-code/) - open source 4G Radio Access Network
   - [Open5GS](https://open5gs.org/) - a C-language Open Source implementation of 4G EPC
   - [srsEPC](https://www.srslte.com/4g) - a light-weight 4G core network implementation with MME, HSS and S/P-GW
+  - [OpenAirInterface 4GC](https://openairinterface.org/oai-code/) - open source 4G Core Network
   - [Corenet](https://github.com/mitshell/corenet) - Minimal 3G and LTE / EPC core network
   - [OMEC](https://opennetworking.org/omec/) - an Open Source Virtualized Mobile Core Project from ONF
+  - [SigScale OCS](https://github.com/sigscale/chf) - an open source 4G Online Charging Function NF
 
 ### 3G Network NFs
 
