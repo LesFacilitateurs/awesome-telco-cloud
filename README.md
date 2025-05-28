@@ -86,6 +86,8 @@ A curated list of Telco Cloud ecosystem projects and resources.
 ### Blogs and Websites
 
   - [K8s introducing SCTP multihoming functionality with LoxiLB](https://www.loxilb.io/post/k8s-introducing-sctp-multihoming-functionality-with-loxilb)
+  - [Guide on how to set-up Linux and Docker for real-time applications using the Ubuntu realtime-kernel/PREEMPT_RT patch](https://github.com/2b-t/linux-realtime)
+  - [https://www.linutronix.de/blog/Containers-and-real-time-and-what-about-TSN](https://www.linutronix.de/blog/Containers-and-real-time-and-what-about-TSN)
 
 ## NF Development Projects
   - [Ligato](https://ligato.io/) - a Go Framework for Building Applications to Control and Manage Cloud Native Network Functions (CNF)
